@@ -1,0 +1,12 @@
+1. State 4 main phases of software/ project life cycle
+2. Discuss pros and cons of waterfall process model
+3. State the main advantage of prototyping 
+4. Why is prototyping problems in some situations
+5. Name an m/ y 2 Agile methods and explain why is it important
+
+
+
+case diagram
+class diagram
+activity diagram
+state diagram
